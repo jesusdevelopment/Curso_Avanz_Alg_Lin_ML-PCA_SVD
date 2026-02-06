@@ -1,0 +1,16 @@
+name: Curso_Avanz_Alg_Lin_ML-PCA_SVD
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - numpy
+  - matplotlib
+  - seaborn
+  - pandas
+  - ipykernel
+  - gensim
+  - ca-certificates
+  - openssl
+  - scikit-learn
+prefix: /home/jesusr/anaconda3/envs/Curso_Avanz_Alg_Lin_ML-PCA_SVD
