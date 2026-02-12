@@ -13,4 +13,5 @@ dependencies:
   - ca-certificates
   - openssl
   - scikit-learn
+  - scikit-image
 prefix: /home/jesusr/anaconda3/envs/Curso_Avanz_Alg_Lin_ML-PCA_SVD
